@@ -20,4 +20,3 @@ title: Biography
 author: admin
 ---
 
-Hi, my name is Luke.
